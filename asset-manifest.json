@@ -1,8 +1,14 @@
 {
   "files": {
-    "main.css": "/kk/static/css/main.a9621c01.css",
+    "main.css": "/kk/static/css/main.ae586d00.css",
     "main.js": "/kk/static/js/main.c5f461ac.js",
     "static/js/787.e3835ec5.chunk.js": "/kk/static/js/787.e3835ec5.chunk.js",
+    "static/media/1.svg": "/kk/static/media/1.98fa067e85758fd8a683.svg",
+    "static/media/6.svg": "/kk/static/media/6.ea9402a9990cec242cc5.svg",
+    "static/media/4.svg": "/kk/static/media/4.c0f34f23e7f85126d540.svg",
+    "static/media/5.svg": "/kk/static/media/5.b03de5fcd389f748b95a.svg",
+    "static/media/2.svg": "/kk/static/media/2.40e4f989fc06cc5e3f85.svg",
+    "static/media/3.svg": "/kk/static/media/3.6a0d3733d757fd08055f.svg",
     "static/media/contactPic.png": "/kk/static/media/contactPic.eea85e85b7fa396e9735.png",
     "static/media/introPic.png": "/kk/static/media/introPic.b6dbd4eabd854ba317ea.png",
     "static/media/learnPic.png": "/kk/static/media/learnPic.168f9c0f91bcc6d07404.png",
@@ -26,9 +32,7 @@
     "static/media/pro81.jpg": "/kk/static/media/pro81.f950366e7568757c01f4.jpg",
     "static/media/whiteLayer.png": "/kk/static/media/whiteLayer.082f8186337d51cc0e0a.png",
     "static/media/pro95.jpg": "/kk/static/media/pro95.2795b03e3fd22abcb3ad.jpg",
-    "static/media/homeProTwo.jpg": "/kk/static/media/homeProTwo.f19478493eb0a0452977.jpg",
     "static/media/pro83.jpg": "/kk/static/media/pro83.ba9941f49b1bfd5d0249.jpg",
-    "static/media/homeProFour.jpg": "/kk/static/media/homeProFour.2c10ab8d1c4d9d73c952.jpg",
     "static/media/proE2.jpg": "/kk/static/media/proE2.a8452feb11de096477a4.jpg",
     "static/media/homeProFive.jpg": "/kk/static/media/homeProFive.6423a85c9f2f2466ad89.jpg",
     "static/media/pro44.jpg": "/kk/static/media/pro44.2420060042183f228b72.jpg",
@@ -73,12 +77,12 @@
     "static/media/linkedin.svg": "/kk/static/media/linkedin.cd21a47f306bff0168f3f52f348fc1ec.svg",
     "static/media/icon_arrow_right.svg": "/kk/static/media/icon_arrow_right.ee29014abb58eb668aa9.svg",
     "static/media/icon_arrow_left.svg": "/kk/static/media/icon_arrow_left.db3558eeaac9afba2d74.svg",
-    "main.a9621c01.css.map": "/kk/static/css/main.a9621c01.css.map",
+    "main.ae586d00.css.map": "/kk/static/css/main.ae586d00.css.map",
     "main.c5f461ac.js.map": "/kk/static/js/main.c5f461ac.js.map",
     "787.e3835ec5.chunk.js.map": "/kk/static/js/787.e3835ec5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9621c01.css",
+    "static/css/main.ae586d00.css",
     "static/js/main.c5f461ac.js"
   ]
 }
